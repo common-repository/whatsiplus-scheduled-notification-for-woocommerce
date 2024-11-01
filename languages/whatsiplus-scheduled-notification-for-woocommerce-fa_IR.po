@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Whatsiplus Scheduled Notification\n"
+
+msgid "Save"
+msgstr "ذخیره"
+
+msgid "Send WhatsApp message for Digits registration?"
+msgstr "ارسال پیام واتساپ برای ثبت نام دیجیتس؟"
+
+msgid "Digits plugin is not installed"
+msgstr "افزونه دیجیتس نصب نیست"
+
+msgid "Select Custom Mobile Number Field"
+msgstr "انتخاب فیلد کاستوم شماره موبایل"
+
+msgid "The usable variables are %1$s and %2$s"
+msgstr "متغیرهای قابل استفاده %1$s و %2$s می‌باشد"
+
+msgid "Add"
+msgstr "اضافه کردن"
+
+msgid "Time"
+msgstr "زمان"
+
+msgid "Hour"
+msgstr "ساعت"
+
+msgid "days"
+msgstr "روز"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Gravity Forms plugin is not installed. Please install the plugin to view the settings."
+msgstr "پلاگین Gravity Forms نصب نشده است. لطفا پلاگین را نصب کنید تا تنظیمات را مشاهده کنید."
+
+msgid "Select Form"
+msgstr "فرم را انتخاب کنید"
+
+msgid "Select Desired Field"
+msgstr "فیلد مورد نظر را انتخاب کنید"
+
+msgid "16:59"
+msgstr "16:59"
+
+msgid "Conditional Logic"
+msgstr "منطق شرطی"
+
+msgid "Send WhatsApp message if"
+msgstr "ارسال پیام WhatsApp در صورتی که"
+
+msgid "All"
+msgstr "همه"
+
+msgid "Any"
+msgstr "هر"
+
+msgid "of the following conditions are met:"
+msgstr "از شرایط زیر برآورده شود:"
+
+msgid "If"
+msgstr "اگر"
+
+msgid "Is"
+msgstr "برابر است با"
+
+msgid "Is Not"
+msgstr "برابر نیست با"
+
+msgid "Greater Than"
+msgstr "بزرگتر از"
+
+msgid "Less Than"
+msgstr "کوچکتر از"
+
+msgid "Contains"
+msgstr "شامل"
+
+msgid "Starts With"
+msgstr "شروع با"
+
+msgid "Ends With"
+msgstr "پایان با"
+
+msgid "Enter a value"
+msgstr "یک مقدار وارد کنید"
+
+msgid "Please complete all fields."
+msgstr "لطفا اطلاعات را کامل وارد کنید"
+
+msgid "The API key is invalid."
+msgstr "متاسفانه کلید API معتبر نیست."
+
+msgid "To set up scheduled WooCommerce message, go to the product edit page."
+msgstr "برای ارسال پیام زماندار ووکامرس به صفحه ویرایش محصول مورد نظر بروید"
+
+msgid "Available variables: %order_id%"
+msgstr "متغیرهای قابل استفاده %order_id% می باشد"
+
+msgid "WooCommerce plugin is not installed. Please install this plugin to view settings."
+msgstr "افزونه Woocommerce نصب نیست برای مشاهده تنظیمات ابتدا این افزونه را نصب کنید"
+
+msgid "Scheduled WhatsApp Message"
+msgstr "پیام زمان‌بندی‌شده واتساپ"
+
+msgid "Add Message"
+msgstr "افزودن پیام"
+
+msgid "Available Variables"
+msgstr "متغیرهای موجود"
+
+msgid "Product Name: %p_name%"
+msgstr "نام محصول: %p_name%"
+
+msgid "Product Price: %p_price%"
+msgstr "قیمت محصول: %p_price%"
+
+msgid "Product Link: %p_link%"
+msgstr "لینک محصول: %p_link%"
+
+msgid "days after"
+msgstr "روز بعد از"
+
+msgid "Message Content"
+msgstr "محتوای پیام"
+
+msgid "Information saved successfully"
+msgstr "اطلاعات با موفقیت ذخیره شد"
+
+msgid "Time"
+msgstr "زمان"
+
+msgid "Order Status"
+msgstr "وضعیت سفارش"
+
+msgid "Conditional Logic"
+msgstr "منطق شرطی"
+
+msgid "All"
+msgstr "همه"
+
+msgid "At least one"
+msgstr "حداقل یکی"
+
+msgid "Send WhatsApp message if"
+msgstr "ارسال پیام واتساپ اگر"
+
+msgid "If"
+msgstr "اگر"
+
+msgid "Enter a value"
+msgstr "یک مقدار وارد کنید"
+
+msgid "is"
+msgstr "است"
+
+msgid "is not"
+msgstr "نیست"
+
+msgid "greater than"
+msgstr "بیشتر از"
+
+msgid "less than"
+msgstr "کمتر از"
+
+msgid "contains"
+msgstr "شامل"
+
+msgid "starts with"
+msgstr "شروع می‌شود با"
+
+msgid "ends with"
+msgstr "پایان می‌یابد با"
+
+
+msgid "The scheduled WhatsApp message plugin is also compatible with the LearnPress plugin. To view settings, please visit the edit page of each course."
+msgstr "افزونه پیام زمان بندی شده واتساپ با افزونه LearnPress نیز سازگار است. برای مشاهده تنظیمات، لطفاً به صفحه ویرایش هر دوره مراجعه کنید."
+
+msgid "Whatsiplus API Key"
+msgstr "کلید API واتسی پلاس"
+
+msgid "If you want to use the plugin, you need to have an API key."
+msgstr "اگر می‌خواهید از افزونه استفاده کنید، باید یک کلید API داشته باشید."
+
+msgid "You can do this by creating a user account."
+msgstr "شما می‌توانید این کار را با ایجاد یک حساب کاربری انجام دهید."
+
+msgid "Creating an account is free and you can use all services for unlimited use for 5 days."
+msgstr "ایجاد حساب کاربری رایگان است و شما می‌توانید به مدت 5 روز از تمام خدمات به‌صورت نامحدود استفاده کنید."
+
+msgid "Sign up and get your API key"
+msgstr "ثبت‌نام کنید و کلید API خود را دریافت کنید"
+
+msgid "To activate the plugin, please enter your API key first."
+msgstr "برای فعال‌سازی افزونه، لطفاً ابتدا کلید API خود را وارد کنید."
+
+msgid "Settings"
+msgstr "تنظیمات"
+
+msgid "User Registration Settings"
+msgstr "تنظیمات ثبت‌نام کاربر"
+
+msgid "Gravity Form Settings"
+msgstr "تنظیمات گرویتی فرم"
+
+msgid "Wordpress Settings"
+msgstr "تنظیمات وردپرس"
+
+msgid "Default Country Code"
+msgstr "کد کشور پیش فرض"
+
+msgid "Default WhatsApp Send Time"
+msgstr "ساعت ارسال  پیام واتساپ"
